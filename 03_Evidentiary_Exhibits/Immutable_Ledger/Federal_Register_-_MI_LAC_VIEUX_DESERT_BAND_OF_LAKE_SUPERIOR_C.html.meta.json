@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=MI+LAC+VIEUX+DESERT+BAND+OF+LAKE+SUPERIOR+C",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=MI+LAC+VIEUX+DESERT+BAND+OF+LAKE+SUPERIOR+C",
+  "title": "Federal Register - MI LAC VIEUX DESERT BAND OF LAKE SUPERIOR C",
+  "fetched_at": "2026-11-23T17:41:25.869194Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 287296,
+  "sha256": "da584ffc3c0f506ad93b7c36d46f560a40c2e82c9e2ff94a75bc5c8c8db9015d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
